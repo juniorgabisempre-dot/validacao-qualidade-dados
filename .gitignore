@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Dados sintéticos gerados localmente (recriados por generate_sample_data.py)
+data/*.csv
+
+# Editor/OS junk
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
